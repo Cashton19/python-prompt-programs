@@ -1,7 +1,6 @@
 # Python Prompt Programs
 
-This repository contains a variety of beginner-friendly Python scripts that use **input prompts** to interact with the user. Each program demonstrates a fundamental Python concept, making it easy to learn by practice.  
-
+This repository contains a variety of beginner-friendly Python scripts that use **input prompts** to interact with the user. 
 ## What you'll find here:
 - Basic input/output exercises
 - Conditional statements and loops
